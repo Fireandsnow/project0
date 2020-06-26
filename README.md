@@ -1,4 +1,4 @@
 # project0
 this contains some text files
-im doing this practice to aquire a job
-this is not being done taking long time to concentrate
+John snow has been sent to north 
+Apple is a fruit which is red color
